@@ -1,0 +1,14 @@
+  apt update -y
+  apt install openjdk-17-jre-headless
+  exit
+  ll
+  cd .ssh/
+  ll
+  vim authorized_keys
+  cd 
+  ll
+  cd jenkins/
+  ll
+  cd workspace
+  ll
+  cd
