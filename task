@@ -1,1 +1,29 @@
-http://3.109.202.171:8080/job/job1/
+careting master
+ java --version
+    2  apt update -y
+    3  java --version
+    4  apt install openjdk-17-jre-headless
+    5  ll
+   11  ssh-keygen -t rsa -b 4096
+   12  ll
+   18  cd .ssh/
+   19  ll
+   20  cat id_rsa.pub
+   21  git clone https://github.com/Chandrakala0309/jenkins2.git
+   22  ll
+   23  cd jenkins2/
+   24  ll
+   25  ./file1.sh
+   26  chmod 700 file1.sh
+   27  ./file1.sh
+   28  ./file1.sh start
+   29  cat /var/lib/jenkins/secrets/initialAdminPassword
+   30  cd
+   31  cd .ssh/
+   32  ll
+   33  cat id_rsa
+   34  ll
+   35  cat id_rsa
+   36  cd .ssh/
+   37  cat id_rsa.pub
+   38  cd
